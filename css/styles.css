@@ -7,10 +7,10 @@
    CSS CUSTOM PROPERTIES
    ============================================ */
 :root {
-  /* Primary palette */
-  --color-primary: #1a1f2e;
-  --color-primary-light: #2d3548;
-  --color-primary-lighter: #3d4560;
+  /* Primary palette - Cosmetic Surgery Specialists Memphis */
+  --color-primary: #003366;
+  --color-primary-light: #004488;
+  --color-primary-lighter: #0055aa;
   --color-secondary: #c9a96e;
   --color-secondary-dark: #b08d4f;
   --color-secondary-light: #dcc592;
@@ -20,14 +20,14 @@
   --color-text: #2c2c2c;
   --color-text-light: #5a5a5a;
   --color-text-muted: #8a8a8a;
-  --color-text-on-dark: #f5f0eb;
-  --color-text-on-dark-muted: #b8b0a8;
+  --color-text-on-dark: #ffffff;
+  --color-text-on-dark-muted: #cccccc;
 
   /* Backgrounds */
   --color-bg: #ffffff;
-  --color-bg-alt: #faf8f5;
-  --color-bg-dark: #1a1f2e;
-  --color-bg-dark-alt: #232838;
+  --color-bg-alt: #f5f5f5;
+  --color-bg-dark: #003366;
+  --color-bg-dark-alt: #002244;
   --color-bg-card: #ffffff;
 
   /* Borders & UI */
