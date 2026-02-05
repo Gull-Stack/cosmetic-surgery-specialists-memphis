@@ -354,6 +354,7 @@ p:last-child { margin-bottom: 0; }
   letter-spacing: -0.01em;
 }
 .logo-text:hover { color: var(--color-secondary-light); }
+.top-bar-name { font-weight: 600; letter-spacing: 0.02em; }
 
 .nav-menu {
   display: flex;
