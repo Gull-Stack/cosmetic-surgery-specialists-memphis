@@ -8,9 +8,9 @@ const SITE_CONFIG = {
   // ==========================================
   practiceName: "Cosmetic Surgery Specialists of Memphis",
   practiceNameShort: "CSS Memphis",
-  doctorName: "Dr. Peter Aldea & Dr. Patricia Eby",
-  doctorCredentials: "MD, FACS",
-  doctorTitle: "Board-Certified Plastic Surgeons",
+  doctorName: "Peter A. Aldea, M.D. & Patricia L. Eby, M.D.",
+  doctorCredentials: "Certified & Re-Certified by The American Board of Plastic Surgery",
+  doctorTitle: "Members of the American Society of Plastic Surgeons",
   tagline: "Dedication • Experience • Excellence",
   heroHeadline: "Award-Winning Plastic Surgery",
   heroSubheadline: "Memphis TOP DOCTORS — 10 Consecutive Years",
