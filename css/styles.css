@@ -345,6 +345,15 @@ p:last-child { margin-bottom: 0; }
 }
 .logo { display: flex; align-items: center; }
 .logo-img { height: 50px; width: auto; transition: height var(--transition-base); }
+.logo-text { 
+  font-family: var(--font-heading); 
+  font-size: 1.25rem; 
+  font-weight: 600; 
+  color: var(--color-secondary); 
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+.logo-text:hover { color: var(--color-secondary-light); }
 
 .nav-menu {
   display: flex;
